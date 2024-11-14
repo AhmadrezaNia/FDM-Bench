@@ -8,6 +8,9 @@
 - **Anomaly Detection**: Includes G-codes labeled for specific anomalies—Non-defective (ND), Under-extrusion (UE), Over-extrusion (OE), and Spaghetti (SP).
 - **Evaluation Types**: Each G-code can be used for both deterministic labeling (single label output) and probability-based labeling.
 
+![Printed Parts](Samples.png)
+*Figure: Printed parts illustrating typical FDM print outcomes: (a) Non-defective (ND), (b) Under-extrusion (UE), (c) Over-extrusion (OE), and (d) Spaghetti (SP) defect.*
+
 ### 2. Free-Form Questions
 - **Expertise Levels**: Questions are categorized by user expertise—Beginner, Experienced, and Theoretical.
 - **Sample**: Provided for reference for evaluation consistency.
