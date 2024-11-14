@@ -10,11 +10,14 @@
 
 ### 2. Free-Form Questions
 - **Expertise Levels**: Questions are categorized by user expertise—Beginner, Experienced, and Theoretical.
-- **Ground Truths**: Provided for evaluation consistency.
+- **Sample**: Provided for reference for evaluation consistency.
 
-### 3. Multiple-Choice Questions (MCQs)
+### 3. Multiple-choice questions (MCQs)
 - **Experience Levels**: Similar to free-form questions, with Beginner, Experienced, and Theoretical levels.
 - **Ground Truths**: Answer keys are included to assess model accuracy.
 
 ### 4. Prompts
-- **Task-Specific Prompts**: Includes prompts for each type of task (G-code detection, free-form responses, and MCQs), stored in a single file for streamlined use.
+- **Task-Specific Prompts**: Includes prompts for each type of task (G-code detection, free-form responses, and MCQs).
+
+For more detailed information on FDM-Bench and its application, please refer to the accompanying research paper.  
+**Cite:** [Provide citation here]
