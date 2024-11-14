@@ -11,6 +11,7 @@
 ### 2. Free-Form Questions
 - **Expertise Levels**: Questions are categorized by user expertise—Beginner, Experienced, and Theoretical.
 - **Sample**: Provided for reference for evaluation consistency.
+- **Evaluators' Scores**: Provided for four LLM models (GPT-4, Claude, Llama-3.1-70B, and Llama-3.1-405B) across three metrics: Accuracy, Precision, and Relevance, scored on a scale of 1 to 5.
 
 ### 3. Multiple-choice questions (MCQs)
 - **Experience Levels**: Similar to free-form questions, with Beginner (B), Experienced(E), and Theoretical (T) levels.
