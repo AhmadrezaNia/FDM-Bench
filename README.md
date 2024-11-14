@@ -13,7 +13,7 @@
 - **Sample**: Provided for reference for evaluation consistency.
 
 ### 3. Multiple-choice questions (MCQs)
-- **Experience Levels**: Similar to free-form questions, with Beginner, Experienced, and Theoretical levels.
+- **Experience Levels**: Similar to free-form questions, with Beginner (B), Experienced(E), and Theoretical (T) levels.
 - **Ground Truths**: Answer keys are included to assess model accuracy.
 
 ### 4. Prompts
