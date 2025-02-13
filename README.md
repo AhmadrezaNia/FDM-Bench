@@ -24,4 +24,4 @@
 - **Task-Specific Prompts**: Includes prompts for each type of task (G-code detection, free-form responses, and MCQs).
 
 For more detailed information on FDM-Bench and its application, please refer to the accompanying research paper.  
-**Cite:** [Paper](https://arxiv.org/abs/2412.09819)]
+**Cite:** [Paper](https://arxiv.org/abs/2412.09819)
