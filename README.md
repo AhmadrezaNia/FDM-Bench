@@ -9,7 +9,7 @@
 - **Evaluation Types**: Each G-code can be used for both deterministic labeling (single label output) and probability-based labeling.
 
 ![Printed Parts](Samples.png)
-*Figure: Printed parts illustrating typical FDM print outcomes: (a) Non-defective (ND), (b) Under-extrusion (UE), (c) Over-extrusion (OE), and (d) Spaghetti (SP) defect.*
+*Figure: Printed parts illustrating typical FDM print outcomes: (a) Non-defective (ND), (b) Under-extrusion (UE), (c) Over-extrusion (OE), and (d) Spaghetti (SP) defects.*
 
 ### 2. Free-Form Questions
 - **Expertise Levels**: Questions are categorized by user expertise—Beginner, Experienced, and Theoretical.
